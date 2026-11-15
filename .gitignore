@@ -1,0 +1,6 @@
+# Secrets
+.env
+
+# Generated output (ai-image skill writes here)
+generations/
+output/
